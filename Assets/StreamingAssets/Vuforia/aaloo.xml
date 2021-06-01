@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mouse_HoloKitab" size="10.000000 14.143646" />
+    <ImageTarget name="Lion_HoloKitab" size="10.000000 14.143646" />
+    <ImageTarget name="HappyBirthday" size="10.000000 13.029316" />
+    <ImageTarget name="ss" size="10.000000 6.000000" />
+    <ImageTarget name="sm" size="10.000000 15.000000" />
+    <ImageTarget name="sh" size="10.000000 15.000000" />
+  </Tracking>
+</QCARConfig>

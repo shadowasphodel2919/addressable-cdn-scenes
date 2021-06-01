@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 92d6bc3f7bcd5d5409832fc6c53820f7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_mouse
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.005
+    100014: ear.L
+    100016: ear.L_end
+    100018: ear.R
+    100020: ear.R_end
+    100022: head
+    100024: legB2.L
+    100026: legB2.R
+    100028: legB3.L
+    100030: legB3.L_end
+    100032: legB3.R
+    100034: legB3.R_end
+    100036: legB4.L
+    100038: legB4.L.001
+    100040: legB4.L.001_end
+    100042: legB4.R
+    100044: legB4.R.001
+    100046: legB4.R.001_end
+    100048: legF1.L
+    100050: legF1.R
+    100052: legF2.L
+    100054: legF2.R
+    100056: legF3.L
+    100058: legF3.L_end
+    100060: legF3.R
+    100062: legF3.R_end
+    100064: legF4.L
+    100066: legF4.L_end
+    100068: legF4.R
+    100070: legF4.R_end
+    100072: //RootNode
+    100074: Mouse_low
+    100076: mouth
+    100078: mouth_end
+    100080: neck
+    100082: tail1
+    100084: tail2
+    100086: tail3
+    100088: tail4
+    100090: tail5
+    100092: tail5_end
+    100094: tail6
+    100096: tail6_end
+    400000: Arm_mouse
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.005
+    400014: ear.L
+    400016: ear.L_end
+    400018: ear.R
+    400020: ear.R_end
+    400022: head
+    400024: legB2.L
+    400026: legB2.R
+    400028: legB3.L
+    400030: legB3.L_end
+    400032: legB3.R
+    400034: legB3.R_end
+    400036: legB4.L
+    400038: legB4.L.001
+    400040: legB4.L.001_end
+    400042: legB4.R
+    400044: legB4.R.001
+    400046: legB4.R.001_end
+    400048: legF1.L
+    400050: legF1.R
+    400052: legF2.L
+    400054: legF2.R
+    400056: legF3.L
+    400058: legF3.L_end
+    400060: legF3.R
+    400062: legF3.R_end
+    400064: legF4.L
+    400066: legF4.L_end
+    400068: legF4.R
+    400070: legF4.R_end
+    400072: Mouse_low
+    400074: //RootNode
+    400076: mouth
+    400078: mouth_end
+    400080: neck
+    400082: tail1
+    400084: tail2
+    400086: tail3
+    400088: tail4
+    400090: tail5
+    400092: tail5_end
+    400094: tail6
+    400096: tail6_end
+    2100000: Mat_mouse
+    4300000: Mouse_low
+    7400000: Arm_mouse|ArmatureAction
+    7400002: Arm_mouse|attack
+    7400004: Arm_mouse|die
+    7400006: Arm_mouse|eat
+    7400008: Arm_mouse|hit_back
+    7400010: Arm_mouse|hit_front
+    7400012: Arm_mouse|hit_left
+    7400014: Arm_mouse|hit_right
+    7400016: Arm_mouse|idle
+    7400018: Arm_mouse|idle_2
+    7400020: Arm_mouse|jump
+    7400022: Arm_mouse|look
+    7400024: Arm_mouse|run
+    7400026: Arm_mouse|sleep
+    7400028: Arm_mouse|sleep_end
+    7400030: Arm_mouse|sleep_start
+    7400032: Arm_mouse|speed_walk
+    7400034: Arm_mouse|walk
+    7400036: Arm_mouse|walk_back
+    9500000: //RootNode
+    13700000: Mouse_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.9999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
